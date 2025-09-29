@@ -4,6 +4,8 @@ eks-game2048-deployment
 
 This guide provides step-by-step instructions to deploy the Game 2048 application on Amazon EKS using Kubernetes.
 
+<img width="1369" height="1026" alt="Screenshot 2025-09-28 151221" src="https://github.com/user-attachments/assets/026b93fb-adde-44ce-824c-0aba1286e2ec" />
+
 ---
 
 ## 📋 Prerequisites
